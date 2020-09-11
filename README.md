@@ -1,11 +1,8 @@
 ### Hi there 👋
 ## I'm a SoftWare Test Automation Engineer
 
-[![](https://raw.githubusercontent.com/0k1ta/0k1ta/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/0k1ta/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/0k1ta/0k1ta/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/0k1ta/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/0k1ta/0k1ta/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/0k1ta/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/0k1ta/0k1ta/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=0k1ta&color=green)
 
 <!--
 **0k1ta/0k1ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
