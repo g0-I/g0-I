@@ -9,7 +9,7 @@ https://0k1ta.github.io/portfolio/
 </a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0k1ta)]
-(https://github.com/anuraghazra/github-readme-stats&count_private=true)
+(https://github.com/anuraghazra/github-readme-stats&count_private=true&include_all_commits)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0k1ta)](https://github.com/anuraghazra/github-readme-stats)
 
