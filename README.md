@@ -12,6 +12,8 @@
 
 [![](https://raw.githubusercontent.com/0k1ta/github-profile-summary-cards-example/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=0k1ta)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **0k1ta/0k1ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
