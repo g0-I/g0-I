@@ -2,21 +2,16 @@
 ## I'm a SoftWare Test Automation Engineer
 
 ## Portfolio
+https://0k1ta.github.io/portfolio/
 
-<a href="https://github-readme-stats.vercel.app/api?username=0k1ta">
+<a href="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0k1ta)]">
   <img align="center" src="https://github.com/anuraghazra/github-readme-stats&count_private=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0k1ta">
-  <img align="center" src="https://github.com/anuraghazra/github-readme-stats" />
-</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0k1ta)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0k1ta)]
+(https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0k1ta)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!--
 **0k1ta/0k1ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
