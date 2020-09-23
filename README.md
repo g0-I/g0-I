@@ -3,14 +3,14 @@
 
 ## Portfolio
 
-<a href="https://github.com/0k1ta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0k1ta&repo=github-readme-stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=0k1ta">
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats&count_private=true" />
 </a>
-<a href="https://github.com/0k1ta/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0k1ta&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0k1ta">
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0k1ta)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0k1ta)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0k1ta)](https://github.com/anuraghazra/github-readme-stats)
