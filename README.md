@@ -3,8 +3,7 @@
 
 ## Portfolio
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0k1ta)](https://github.com/ryo-ma/github-profile-trophy)
-
+https://github-readme-stats.vercel.app/api?username=0k1ta&show_icons=true
 
 [![](https://raw.githubusercontent.com/0k1ta/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
