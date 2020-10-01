@@ -1,7 +1,7 @@
-### Hi there 👋
-### I'm a SoftWare Test Automation Engineer
+## About me 💬 
+#### SoftWare Test Automation Engineer
 
-## Portfolio
+### Portfolio
 https://0k1ta.github.io/portfolio/
 <br><br>
 
