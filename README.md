@@ -1,5 +1,5 @@
 ## About me 💬 
-#### SoftWare Test Automation Engineer
+#### SoftWare TestAutomation Engineer
 
 ### Portfolio
 https://0k1ta.github.io/portfolio/
