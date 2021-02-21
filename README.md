@@ -2,7 +2,7 @@
 #### SoftWare TestAutomation Engineer
 
 ### Portfolio
-https://0k1ta.github.io/portfolio/
+https://g0-i.github.io/portfolio/
 <br><br>
 
 ## github-stats
