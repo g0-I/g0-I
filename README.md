@@ -2,7 +2,7 @@
 #### SoftWare TestAutomation Engineer
 
 ### Portfolio
-https://g0-i.github.io/portfolio/
+https://g0-i.github.io/portfolio_react/
 <br><br>
 
 ## github-stats
