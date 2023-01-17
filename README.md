@@ -5,9 +5,9 @@
 https://g0-i.github.io/portfolio_react/
 <br><br>
 
-## GitHub stats"
+## GitHub stats
 <img align="left" alt="my github's stats" height="20%" width="60%" src= "https://github-readme-stats-c37phijev-g0-i.vercel.app/api?username=g0-I&include_all_commits=true&count_private=true&hide=stars,contribs&theme=tokyonight" />
-<p>
+<br>
 <img align="left" alt="my github's stats" height="20%" width="60%" src= "https://github-readme-stats-c37phijev-g0-i.vercel.app/api/top-langs/?username=g0-I&theme=tokyonight&layout=compact" />
 
 
