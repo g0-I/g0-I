@@ -1,5 +1,5 @@
 ## About me 💬 
-#### Software TestAutomation Engineer
+#### QA Engineer
 
 ## Portfolio
 https://g0-i.github.io/portfolio_react/
